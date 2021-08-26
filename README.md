@@ -2,8 +2,7 @@
 ## Train, store, and load a model built from 5,000 training images of ASCII character digits into a Naïve Bayes Digit Classifier. This classifier classifies any given digit made of ASCII characters with 77% accuracy, and can be used to classify digits drawn by hand in an integrated GUI with slightly less accuracy.
 
 ![image](https://user-images.githubusercontent.com/47235519/130899834-3c670064-c2cb-4079-909a-987b13794cd0.png)
-![image](https://user-images.githubusercontent.com/47235519/130899848-f619d7be-47fd-4d8b-ba2d-773c7d6dd2cd.png)
-
+![image](https://user-images.githubusercontent.com/47235519/130899896-91b09f97-c9d6-4131-8c94-a21da8567a9a.png)
 ### What You Can Do:
 - Draw and classify digits with the integrated GUI
 - Train, load, and/or test the training model and/or classifier
