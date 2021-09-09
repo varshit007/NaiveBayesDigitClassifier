@@ -16,8 +16,8 @@
 - Once these are both downloaded, open this repository in a code editor that supports CMake and build the project
 
 #### To draw and classify digits in the integrated GUI:
-- Select and run the "naive-bayes-gui" configuration, OR run the "naive-bayes-gui.exe" executable
-- Note that the classification accuracy won't be the greatest, as the model was trained with digits made of ASCII characters
+- Select and run the "naive-bayes-gui" configuration, OR run the "naive-bayes-gui.exe" executable.
+- Note that the classification accuracy won't be the greatest, as the model was trained with digits made of ASCII characters.
 
 #### To train, load, and/or test the training model and/or classifier:
 - Run the "train-load-test.exe" executable in a terminal, and enter the command line arguments as shown. For example, to train the model, type "train-load-test.exe train data/training_images.txt data/training_labels.txt data/training_model.txt"
