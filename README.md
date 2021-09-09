@@ -13,7 +13,7 @@
 - Download Visual Studio Community 2015 with Update 3 at https://my.visualstudio.com/Downloads?q=visual%20studio%202015&wt.mc_id=o~msft~vscom~older-downloads
 - When downloading, select custom installation and check the box for "Common Tools for Visual C++ 2015"
 - Download Cinder for Visual C++ 2015 at https://libcinder.org/download
-- Once these are both downloaded, open this repository in a code editor that supports CMake and build the project
+- Once these are both downloaded, open this repository in a code editor that supports CMake and build the project.
 
 #### To draw and classify digits in the integrated GUI:
 - Select and run the "naive-bayes-gui" configuration, OR run the "naive-bayes-gui.exe" executable.
