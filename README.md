@@ -4,8 +4,8 @@
 ![image](https://user-images.githubusercontent.com/47235519/130899834-3c670064-c2cb-4079-909a-987b13794cd0.png)
 ![image](https://user-images.githubusercontent.com/47235519/130899896-91b09f97-c9d6-4131-8c94-a21da8567a9a.png)
 ### What You Can Do:
-- Draw and classify digits with the integrated GUI
-- Train, load, and/or test the training model and/or classifier
+- Draw and classify digits with the integrated GUI.
+- Train, load, and/or test the training model and/or classifier.
 
 ### How To Run The Program:
 
